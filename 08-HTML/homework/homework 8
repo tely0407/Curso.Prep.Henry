@@ -1,0 +1,42 @@
+
+<html>
+    <head></head>
+    <title>"Tarea HTML de Estela"</title>  
+    <link rel="stylesheet" href="style.css"> 
+     <style>
+        h1 {
+            color: red;
+        }
+        img{
+            width: 400px; 
+        }
+        #thirdDiv {
+            height: 600px;
+            width: 500px;
+            background-color: seagreen;
+            padding: 50px;
+            border: 5px solid black;
+        }
+        #spanID{
+            font-size: 18px; 
+            margin: 50px;
+        }     
+</style>
+    </head> 
+    <body>
+        <div class="divclass">
+            <h1>Estela</h1>
+            <h3>Henry</h3>
+            <h4>tarea de HTML/CSS</h4>
+            <div class=¨divclass¨>
+                <span id="spanid">Ceviche mexicano</span> 
+                <a href="https://www.lupitamexicanbar.com/reserva_madero.html"  target="_blank">Restaurante favorito
+           </div>
+    <div id="thirdDiv"
+    <ul><img src="https://images-gmi-pmc.edge-generalmills.com/cfe2c9b4-9381-4e62-a222-2084a565c51b.jpg"
+    <ul><img src="https://www.lamichoacanameatmarket.com/wp-content/uploads/2019/03/Ceviche-1920x850.jpg"
+   </div>
+ </body>
+
+
+</html>
